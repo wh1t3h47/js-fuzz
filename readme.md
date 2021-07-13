@@ -1,3 +1,9 @@
+# Plans for the future (by [wh1t3h47](https://github.com/wh1t3h47))
+1. Add native coverage gathering for node internals and C binaries by combining js-fuzz with aflplusplus
+2. Instrument any node modules that are built with C 
+
+
+
 # js-fuzz
 
 ![](./demo.gif)
